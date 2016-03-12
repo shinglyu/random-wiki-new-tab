@@ -1,5 +1,5 @@
 const NEW_API_FIREFOX_VERSION = 44;
-let LANG = 'en'
+let LANG = require("sdk/simple-prefs").prefs.lang;
 const NEWTAB_URL = 'https://'+ LANG + '.wikipedia.org/wiki/Special:Random';
 
 const { version } = require('sdk/system/xul-app');
