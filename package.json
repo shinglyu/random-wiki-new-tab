@@ -1,0 +1,16 @@
+{
+  "title": "Random Wiki New Tab",
+  "name": "random_wiki_new_tab",
+  "version": "0.0.1",
+  "description": "Read a random wiki page to expand your knowledge when you open a new tab",
+  "main": "index.js",
+  "author": "Shing Lyu",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MPLv2",
+  "keywords": [
+    "jetpack"
+  ]
+}
