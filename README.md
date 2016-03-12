@@ -3,7 +3,7 @@ Read a random wiki page to expand your knowledge when you open a new tab
 
 #Install
 
-Install from []Firefox Add-ons Gallery](https://addons.mozilla.org/en-US/firefox/addon/random-wiki-new-tab/)
+Install from [Firefox Add-ons Gallery](https://addons.mozilla.org/en-US/firefox/addon/random-wiki-new-tab/)
 
 #Contribute
 
